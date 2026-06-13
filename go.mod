@@ -1,4 +1,4 @@
-module github.com/minio/sio
+module github.com/obstor/sio
 
 go 1.24.0
 
